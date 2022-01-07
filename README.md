@@ -1,12 +1,12 @@
-<strong>Hi, Everyone 🙌🏻</strong>
-I'm Minjung Choi 🐿@pikiforyou
+<strong>Hi, Everyone 🙌🏻</strong>  
+I'm Minjung Choi 🐿@pikiforyou    
 
-- I’m an enthusiastic Junior software engineer
-- Backend/Server Developer 
+- I’m an enthusiastic Junior software engineer  
+- Backend/Server Developer  
 
 <p>
 <strong>⭐️ Languages and Tools :</strong>
-<br>
+<br>  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="20px" height="20px" title="java"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="20px" height="20px" title="spring"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px" height="20px" title="python"/>
@@ -18,17 +18,18 @@ I'm Minjung Choi 🐿@pikiforyou
 
 <p>
 <strong>🔥 I'm interested in :</strong>
-<br>
+  
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/devops/devops.png" width="30px" height="30px" title="devops"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="30px" height="30px" title="aws"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="30px" height="30px" title="kubernetes"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" width="30px" height="30px" title="terraform"/>
 </p>
-
+  
 ❤️ Thanks! ❤️
 
 <p>
-🖥 Top Language? <br>
+<strong> 🖥 Top Language? :</strong>    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikiforyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
