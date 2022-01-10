@@ -8,9 +8,13 @@
 <br>
 <code>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30px" height="30px" title="java"/>
-</code> 
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="30px" height="30px" title="spring"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px" height="30px" title="python"/>&nbsp;
+</code>
+<code>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px" height="30px" title="python"/>
+</code> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="30px" height="30px" title="sql"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" height="30px" title="javascript"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30px" height="30px" title="typescript"/>&nbsp;
@@ -24,7 +28,7 @@
 <br><br><br>
   
 ❤️ Thanks! ❤️  
-<br>
+<br><br>
 <strong> 🖥 Top Language? :</strong>  
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikiforyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
