@@ -22,7 +22,8 @@
 <br><br>
 <strong>💼 Career :</strong>
 <br>
-2021.06 ~ 2022.01 >> DATEPOP Server Developer
+2021.06 ~ 2022.01 >> DATEPOP: Server Developer
+<br>서버 및 백엔드 개발
 <br><br><br>
 ❤️ Thanks! ❤️  
 <br><br>
