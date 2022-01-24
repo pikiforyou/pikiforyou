@@ -25,7 +25,7 @@
 2021.06 ~ 2022.01 >> DATEPOP: Server/Backend Developer
 <br><br><br>
 ❤️ Thanks! ❤️  
-<br><br>
+<br><br><br>
 <strong> 🖥 Top Language? :</strong>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikiforyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
