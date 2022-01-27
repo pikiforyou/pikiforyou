@@ -22,7 +22,8 @@
 <br><br>
 <strong>💼 Career :</strong>
 <br>
-2021.06 ~ 2022.01 >> DATEPOP: Server/Backend Developer
+2021.06 ~ 2022.01 >> DATEPOP: Server/Backend Developer  
+2022.02 ~ >>
 <br><br><br>
 ❤️ Thanks! ❤️  
 <br><br><br>
