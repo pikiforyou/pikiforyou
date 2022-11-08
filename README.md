@@ -24,7 +24,7 @@
 <br>
 2021.06 ~ 2022.01 >> DATEPOP: Server/Backend Developer  
 
-2022.02 ~ >>
+2022.02 ~ 2022.11 >> 
 <br><br><br>
 ❤️ Thanks! ❤️  
 <br><br><br>
