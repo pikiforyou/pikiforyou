@@ -23,10 +23,8 @@
 <strong>💼 Career :</strong>
 <br>
 2021.06 ~ 2022.01 >> DATEPOP: Backend/Front Developer  
-
-2022.02 ~ 2022.11 >> LG TV/LG CNS : Server/Backend Developer (freelancer)
-
-2023.01 ~ >> 
+2022.02 ~ 2022.11 >> LG TV/LG CNS : Server/Backend Developer (freelancer)  
+2023.01 ~ >>   
 <br><br><br>
 ❤️ Thanks! ❤️  
 <br><br><br>
